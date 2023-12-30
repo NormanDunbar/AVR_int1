@@ -1,0 +1,10 @@
+Attach an LED to Arduino pin D13, AVR pin PB5
+and toggle it in the loop.
+
+Another LED on Arduino pin D5, AVR pin PD5, will be
+toggled when a switch is pressed. The switch
+MUST be attached to Arduino pin D3, AVR pin PD3.
+
+For the sake of this test, debouncing is not used so
+some flickering is to be expected. (Use long presses!)
+
