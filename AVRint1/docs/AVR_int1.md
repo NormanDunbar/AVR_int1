@@ -2,8 +2,6 @@
 
 This library can be usd with the Arduino IDE and also with other systems, such as PlatformIO. The library makes handling interrupts on the Arduino D3 pin, AVR pin PD3, very simple indeed.
 
-This library, and the AVR_int0 library, require the base library, AVR_int_base, to be installed from https://github.com/NormanDunbar/AVR_int_base/releases/latest.
-
 ## Library Documentation
 
 ### Namespaces
